@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xml:lang="zh-cn" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+ <head>
+  <meta name="dtb:uid" content="84225161"/>
+  <meta name="dtb:depth" content="0"/>
+  <meta name="dtb:totalPageCount" content="0"/>
+  <meta name="dtb:maxPageNumber" content="0"/>
+ </head>
+ <docTitle>
+  <text>真相与自白</text>
+ </docTitle>
+ <navMap>
+  <navPoint id="toc-1" playOrder="1">
+   <navLabel>
+    <text>真相与自白——戈尔巴乔夫回忆录</text>
+   </navLabel>
+   <content src="part00000.html#0000000109"/>
+  </navPoint>
+  <navPoint id="toc-2" playOrder="2">
+   <navLabel>
+    <text>第一章 当选中央书记</text>
+   </navLabel>
+   <content src="part00000.html#0000014747"/>
+  </navPoint>
+  <navPoint id="toc-3" playOrder="3">
+   <navLabel>
+    <text>第二章 往事在我心中</text>
+   </navLabel>
+   <content src="part00000.html#0000054337"/>
+  </navPoint>
+  <navPoint id="toc-4" playOrder="4">
+   <navLabel>
+    <text>第三章 莫斯科大学</text>
+   </navLabel>
+   <content src="part00000.html#0000079304"/>
+  </navPoint>
+  <navPoint id="toc-5" playOrder="5">
+   <navLabel>
+    <text>第四章 初试锋芒</text>
+   </navLabel>
+   <content src="part00000.html#0000109111"/>
+  </navPoint>
+  <navPoint id="toc-6" playOrder="6">
+   <navLabel>
+    <text>第五章 权力的考验</text>
+   </navLabel>
+   <content src="part00000.html#0000151797"/>
+  </navPoint>
+  <navPoint id="toc-7" playOrder="7">
+   <navLabel>
+    <text>第六章 在老广场新的、不习惯的世界</text>
+   </navLabel>
+   <content src="part00000.html#0000169874"/>
+  </navPoint>
+  <navPoint id="toc-8" playOrder="8">
+   <navLabel>
+    <text>第七章 安德罗波夫</text>
+   </navLabel>
+   <content src="part00000.html#0000182152"/>
+  </navPoint>
+  <navPoint id="toc-9" playOrder="9">
+   <navLabel>
+    <text>第八章 总书记“手稿烧不尽”</text>
+   </navLabel>
+   <content src="part00000.html#0000237090"/>
+  </navPoint>
+  <navPoint id="toc-10" playOrder="10">
+   <navLabel>
+    <text>第十章 经济改革:初步的尝试改革的前奏</text>
+   </navLabel>
+   <content src="part00000.html#0000273927"/>
+  </navPoint>
+  <navPoint id="toc-11" playOrder="11">
+   <navLabel>
+    <text>第十一章 决定性的一步</text>
+   </navLabel>
+   <content src="part00000.html#0000280937"/>
+  </navPoint>
+  <navPoint id="toc-12" playOrder="12">
+   <navLabel>
+    <text>第十二章 事业与思考</text>
+   </navLabel>
+   <content src="part00000.html#0000302223"/>
+  </navPoint>
+  <navPoint id="toc-13" playOrder="13">
+   <navLabel>
+    <text>第十三章 政治改革</text>
+   </navLabel>
+   <content src="part00000.html#0000337789"/>
+  </navPoint>
+  <navPoint id="toc-14" playOrder="14">
+   <navLabel>
+    <text>第十四章 苏联总统、</text>
+   </navLabel>
+   <content src="part00000.html#0000381998"/>
+  </navPoint>
+  <navPoint id="toc-15" playOrder="15">
+   <navLabel>
+    <text>第十五章 党和改革</text>
+   </navLabel>
+   <content src="part00000.html#0000418113"/>
+  </navPoint>
+  <navPoint id="toc-16" playOrder="16">
+   <navLabel>
+    <text>第十六章 新思维和对外政策</text>
+   </navLabel>
+   <content src="part00000.html#0000452582"/>
+  </navPoint>
+  <navPoint id="toc-17" playOrder="17">
+   <navLabel>
+    <text>第十七章 德国的统一</text>
+   </navLabel>
+   <content src="part00000.html#0000537881"/>
+  </navPoint>
+  <navPoint id="toc-18" playOrder="18">
+   <navLabel>
+    <text>第十八章 改革与社会主义</text>
+   </navLabel>
+   <content src="part00000.html#0000604998"/>
+  </navPoint>
+  <navPoint id="toc-19" playOrder="19">
+   <navLabel>
+    <text>第十九章 1991年1~7月:危险与希望年“分法”</text>
+   </navLabel>
+   <content src="part00000.html#0000621371"/>
+  </navPoint>
+  <navPoint id="toc-20" playOrder="20">
+   <navLabel>
+    <text>第二十章 八月政变</text>
+   </navLabel>
+   <content src="part00000.html#0000722851"/>
+  </navPoint>
+  <navPoint id="toc-21" playOrder="21">
+   <navLabel>
+    <text>第二十一章 最后的努力</text>
+   </navLabel>
+   <content src="part00000.html#0000800183"/>
+  </navPoint>
+  <navPoint id="toc-22" playOrder="22">
+   <navLabel>
+    <text>第二十二章 苏联解体</text>
+   </navLabel>
+   <content src="part00000.html#0000854768"/>
+  </navPoint>
+ </navMap>
+</ncx>

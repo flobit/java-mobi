@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libmobi
+Description: MOBI ebook format handling library
+URL: http://www.fabiszewski.net/libmobi
+Version: 0.4
+Requires:
+Libs: -L${libdir} -lmobi
+Libs.private: -lz 
+Cflags: -I${includedir}

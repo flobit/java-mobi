@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package version="2.0" unique-identifier="uid" xmlns="http://www.idpf.org/2007/opf">
+ <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>真相与自白</dc:title>
+  <dc:description>&lt;p class=&quot;description&quot;&gt;真相与自白——戈尔巴乔夫回忆录&lt;/p&gt;</dc:description>
+  <dc:language>zh-cn</dc:language>
+  <dc:publisher>epub掌上书苑</dc:publisher>
+  <dc:rights>本电子书由epubBuilder制作生成,欢迎访问http://www.cnepub.com浏览海量电子书。</dc:rights>
+  <dc:rights>本电子书由epubBuilder制作生成,欢迎访问http://www.cnepub.com浏览海量电子书。</dc:rights>
+  <dc:identifier id="uid">84225161</dc:identifier>
+  <dc:creator>戈尔巴乔夫</dc:creator>
+  <dc:contributor>calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+  <dc:subject>历史军事</dc:subject>
+  <dc:date opf:event="publication">2010-05-18T16:00:00+00:00</dc:date>
+  <dc:date opf:event="publication">2010-05-18T16:00:00+00:00</dc:date>
+  <meta name="cover" content="resource00000"/>
+ </metadata>
+ <manifest>
+  <item id="part00000" href="part00000.html" media-type="application/xhtml+xml"/>
+  <item id="resource00000" href="resource00000.jpg" media-type="image/jpeg"/>
+  <item id="resource00001" href="resource00001.jpg" media-type="image/jpeg"/>
+  <item id="resource00002" href="resource00002.ncx" media-type="application/x-dtbncx+xml"/>
+ </manifest>
+ <spine toc="resource00002">
+  <itemref idref="part00000"/>
+ </spine>
+</package>
